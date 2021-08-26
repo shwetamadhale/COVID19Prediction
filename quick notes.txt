@@ -1,0 +1,21 @@
+#####supervised learning = data w labels
+---> classification - predicting class of a new variable
+---> regression= estimate  relation bw two variable
+
+#####unsupervised learning = data w no labels
+---> clustering = understand underlying info bw input fed
+intra cluster similarity and inter-cluster dissimilarity
+
+#####linear regression
+----------Eg-> relation bw GRE and CGPA
+				1. gathering data
+				2. table for both parameters
+				3. plot a scatter plot
+				4. data visualization
+			-> for 8.32 cgpa whats their gre score
+				1. use of linear regression
+				2. plot a line, infinite lines possible
+				3. differencec bw actual and predicted values = residual
+				4. best fit = sum of residual squared is  minimum
+				5. mark vertically form 8.32 and get predicted value
+				
